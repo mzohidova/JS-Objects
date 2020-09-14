@@ -1,3 +1,7 @@
+/**
+ *  Add comments
+ *
+ */
 const menu = {
     _courses: {
       appetizers: [],
